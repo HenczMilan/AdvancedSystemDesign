@@ -1,3 +1,6 @@
 első fájlom
 második sor
 harmadik sor - eredeti && tmp
+negyedik sor
+ötödik sor -
+otodik sor -
