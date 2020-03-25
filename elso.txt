@@ -1,3 +1,3 @@
 első fájlom
 második sor
-harmadik sor - eredeti
+harmadik sor - eredeti && tmp
